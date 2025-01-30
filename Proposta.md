@@ -3,7 +3,7 @@
 ## *Discente: Ivyna Alves Santos Magalhães*
 
 ### Resumo
-Este trabalho tem como foco o desenvolvimento de um sistema web chamado Planner, destinado à organização e gerenciamento de tarefas. O objetivo é oferecer uma ferramenta eficiente que auxilie os usuários no planejamento de atividades diárias, promovendo maior controle e produtividade.
+Este trabalho tem como foco o desenvolvimento de um sistema web chamado bePlanner, destinado à organização e gerenciamento de tarefas. O objetivo é oferecer uma ferramenta eficiente que auxilie os usuários no planejamento de atividades diárias, promovendo maior controle e produtividade.
 
 ### 1. Tema
  O trabalho final tem como tema o desenvolvimento de um Sistema Web Planner para organização e gerenciamento de tarefas.
