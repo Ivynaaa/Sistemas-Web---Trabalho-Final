@@ -45,6 +45,7 @@ Suporte para múltiplos idiomas na versão inicial.
 Protótipos para as páginas foram elaborados para representar as principais funcionalidades do sistema e podem ser encontrados em:
 
 Página Inicial: Exibe um resumo das tarefas, status, notificações e calendário.
+
 https://www.figma.com/proto/HGvYEWl1thpAXrinTg57O8/TP-Sistemas-Web?node-id=16-17&t=TlKv22LnrnAsX0i9-1
 
 
