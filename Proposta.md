@@ -44,9 +44,6 @@ Suporte para múltiplos idiomas na versão inicial.
 
 Protótipos para as páginas foram elaborados para representar as principais funcionalidades do sistema e podem ser encontrados em:
 
-Página Inicial: Exibe um resumo das tarefas, status e notificações.
+Página Inicial: Exibe um resumo das tarefas, status, notificações e calendário.
 
-Página de Cadastro de Tarefas: Formulário para incluir novas tarefas.
-
-Página de Visualização e Listagem: Lista todas as tarefas e permite filtros por status e prazo.
 
