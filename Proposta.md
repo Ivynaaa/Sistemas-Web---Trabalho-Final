@@ -48,4 +48,8 @@ Página Inicial: Exibe um resumo das tarefas, status, notificações e calendár
 
 https://www.figma.com/proto/HGvYEWl1thpAXrinTg57O8/TP-Sistemas-Web?node-id=16-17&t=TlKv22LnrnAsX0i9-1
 
+### 5. Referências
+
+BOOTSTRAP. Bootstrap Icons. Disponível em: https://icons.getbootstrap.com/. Acesso em: 30 jan. 2025.
+
 
